@@ -19,7 +19,7 @@ Open your coding software, select "open file" and locate the module-3-challenge 
 Heroku Link: [corystechblog](https://dashboard.heroku.com/apps/corystechblog)
 
 ## Collaborators and References
-- ORM Project Code
+- MVC Project Code
     University Of Toronto SCS Coding Boot Camp
 
 - Module 14 in class exercises
